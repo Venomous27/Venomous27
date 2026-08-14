@@ -14,10 +14,5 @@ I'm Venom and i make videos on YouTube.
 ![](https://streak-stats.demolab.com/?user=Venomous27&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Venomous27&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Venomous27&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Venomous27&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
