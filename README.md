@@ -15,3 +15,4 @@ I'm Venom and I make videos on YouTube.
 
 # 🖵 What I know:
 ![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
+& random knowledge about computers and stuff :p
